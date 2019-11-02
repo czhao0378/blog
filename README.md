@@ -1,6 +1,6 @@
 
 # <i class="fas fa-book fa-1x"></i> Blog
-## <span style=" color: Dodgerblue;"><i class="fas fa-glasses fa-2x "></i></span>   从现象看本质
+## <span style=" color: Dodgerblue;"><i class="fas fa-glasses fa-2x "></i></span>   从现象 看本质
 ***
 ## 2019年-10月
 ### 十月清霜重 飘零何处归
